@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Analytics, Data Engineering and Data Science.**
 
-- 📫 How to reach me **mdraidz@gmail.com**
+- 📫 Reach me at **mdraidz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
